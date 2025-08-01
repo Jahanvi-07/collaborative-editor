@@ -79,6 +79,19 @@ You can open the link in **multiple tabs** or different devices to test **real-t
 
 *1. Light-Themed:*
 
+![Image](https://github.com/user-attachments/assets/284dc6c3-e23e-4802-b2ce-c3b86841ecdd)
+
+
+![Image](https://github.com/user-attachments/assets/5dca7d97-7d08-4ca2-ad91-3b51c985ef89)
+
 
 *2. Dark-Themed:*
+
+![Image](https://github.com/user-attachments/assets/3608db43-fd20-4579-ad26-850e11606db2)
+
+
+![Image](https://github.com/user-attachments/assets/aced9490-47fe-405d-874a-ca66cfa5e8ea)
+
+
+
 
