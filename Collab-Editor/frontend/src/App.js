@@ -20,7 +20,7 @@ function App() {
         {/* User Info */}
         <div className="user-info">
           <span className="avatar">D</span>
-          <span className="username">Hello, Devangi</span>
+          <span className="username">Hello, Jahanvi</span>
         </div>
 
         {/* Theme Toggle */}
