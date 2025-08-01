@@ -75,4 +75,10 @@ You can open the link in **multiple tabs** or different devices to test **real-t
   ```
 
 
+## 📸 **Screenshots:**
+
+*1. Light-Themed:*
+
+
+*2. Dark-Themed:*
 
